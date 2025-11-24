@@ -6,7 +6,7 @@
 
 The application is **a customized fork of OBS Studio**, enhanced and optimized for deep integration with the StreamFarm platform. While retaining the power and flexibility of OBS, StreamFarm Studio includes additional features, streamlined workflows, and direct cloud integration tailored for creators using the StreamFarm ecosystem.
 
-With built-in connection to the **StreamFarm online service**, creators can manage all aspects of their broadcasts — from setting up scenes and sources to launching streams in just a few clicks.
+With built-in connection to the **StreamFarm Cloud service**, creators can manage all aspects of their broadcasts — from setting up scenes and sources to launching streams in just a few clicks.
 
 ## Quick Links
 
